@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on school
 - 🌱 I’m currently learning sofwatre 
-- 👯 I’m looking to collaborate on future
+- 👯 I’m looking to be software developer on future
 - 🤔 I’m looking for help with school
 - 💬 Ask me about my dog
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love travelling
--->
